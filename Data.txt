@@ -1,0 +1,8 @@
+TechCrunch;https://techcrunch.com;https://techcrunch.com/feed
+Engadget;https://engadget.com/reviews;https://engadget.com/rss.xml
+Entrepreneur;https://entrepreneur.com/us;https://entrepreneur.com/latest.rss
+Billboard – Music Charts, News, Photos & Video;https://billboard.com;https://www.billboard.com/feed/rss/
+Cay Horstmann's Unblog;https://horstmann.com/unblog;https://horstmann.com/unblog/rss.xml
+OMG! Ubuntu - Ubuntu News, Apps, Tips & More;https://www.omgubuntu.co.uk;https://www.omgubuntu.co.uk/feed
+NLP News | Sebastian Ruder | Substack;https://newsletter.ruder.io;https://newsletter.ruder.io/feed
+Gizmodo | The Future Is Here;https://gizmodo.com;https://gizmodo.com/rss
